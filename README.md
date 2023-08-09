@@ -68,9 +68,7 @@ Big-Theta refers to the tight bound of time or space complexity of an algorithm.
 # <a id="data-structures"></a>Data Structures
 ### <a id="array"></a> Array
 #### Definition
-- Stores data elements based on an sequential, most commonly 0 based, index.
-- Based on [tuples](http://en.wikipedia.org/wiki/Tuple) from set theory.
-- They are one of the oldest, most commonly used data structures.
+- Stores data elements based on a sequential, most commonly 0 based, index.
 
 #### What you need to know
 - Optimal for indexing; bad at searching, inserting, and deleting (except at the end).
@@ -90,8 +88,8 @@ Big-Theta refers to the tight bound of time or space complexity of an algorithm.
 ### <a id="linked-list"></a> Linked List
 #### Definition
 - Stores data with **nodes** that point to other nodes.
-  - Nodes, at its most basic it has one datum and one reference (another node).
-  - A linked list _chains_ nodes together by pointing one node's reference towards another node.
+  - Node, at its most basic has one datum and one reference (another node).
+  - A linked list _chains_ nodes together by pointing one nodes reference towards another node.
 
 #### What you need to know
 - Designed to optimize insertion and deletion, slow at indexing and searching.
