@@ -30,7 +30,7 @@ This project now has actual code challenges! This challenges are meant to cover 
 
 # <a id="asymptotic-notation"></a>Asymptotic Notation
 ### Definition:
-Asymptotic Notation is the hardware independent notation used to tell the time and space complexity of an algorithm. Meaning it's a standardized way of measuring how much memory an algorithm uses or how long it runs for given an input.
+Asymptotic Notation is the hardware independent notation used to tell the time and space complexity of an algorithm. Meaning it's a standardized way of measuring how much memory an algorithm uses or how long it runs for a given input.
 
 #### Complexities
 The following are the Asymptotic rates of growth from best to worst:
